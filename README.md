@@ -6,7 +6,7 @@
 - 
   * ***Python***: 
 
-      * Modelizar problemas de ingeniería logística (problemas de asignación, flujo máximo-coste mínimo, ...
+      * Modelizar problemas de ingeniería logística (problemas de asignación, flujo máximo-coste mínimo, ...).
       * Desarrollar una aplicación de visión por computador (procesamiento de imágenes).
       * Implementar sistemas recomendadores, mediante predicción.
   
