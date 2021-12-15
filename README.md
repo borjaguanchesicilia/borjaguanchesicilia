@@ -14,7 +14,7 @@
 
       * Desarrollar un sistema de reservas para una cadena hotelera (ficticia).
  
-  * ***Microsoft Power BI***:
+  * ***R & Microsoft Power BI***:
 
       * Proyecto de visualización e inteligencia de datos sobre la calidad del aire en Canarias.
       
