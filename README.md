@@ -2,7 +2,7 @@
 
 - 👀 Mis intereses son la modelización y resolución de problemas mediante uso de lenguajes de programación. Entre ellos, problemas de optimización, de estadística y de toma de decisiones. 
 
-- 🌱 Mis proyectos actualmente son:
+- 🌱 Mis últimos proyectos han sido:
  
   * ***Python***: 
 
